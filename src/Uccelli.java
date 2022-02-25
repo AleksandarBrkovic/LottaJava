@@ -7,7 +7,7 @@ public abstract class Uccelli extends Animale {
 	}
 	public void attaccoSpeciale( ) {
 		Animale att;
-		
+		//mod 3
 	}
 	
 	
